@@ -1,0 +1,9 @@
+.male{
+    border: 1px solid blue;
+    background-color: blue;
+}
+
+.female{
+    border: 1px solid red;
+    background-color: red;
+}
